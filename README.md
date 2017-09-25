@@ -1,6 +1,6 @@
 # AngularReddit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+Live demo at https://dist-xhjamathrv.now.sh/
 
 ## Development server
 
