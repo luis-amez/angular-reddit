@@ -24,4 +24,10 @@ export class AppComponent {
     link.value = '';
     return false;
   }
+
+  sortedArticles(): Article[] {
+    return this.articles.sort((a: Article, b: Article): number => {
+      return b.votes - a.votes;
+    })
+  }
 }
